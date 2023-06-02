@@ -5,16 +5,15 @@
 -->
 
 <h1 align="center"><strong>I'm Rams</strong></h1>
-<h3 align="center">A passionate rookie developer learning frontend & backend from Hyderabad India &#127470;&#127475</h3>
+<h3 align="center">A passionate rookie developer learning frontend & backend, <br> Hyderabad India &#127470;&#127475</h3>
 <br>
 <br>
 <a target="_blank" align="center">
-  <img align="right" top="400" height="200" width="300" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
+  
 
-- 🌱 I’m currently Working on Advanced Java, node.js, Springboot, Oracle (this is offline learning classes).
+- 🌱 I’m currently Working on Advanced Java, node.js, Springboot, Oracle (attending offline classes).
 
-- 🌱 I’m currently learning HTML/CSS/Js <a href="https://www.udemy.com/course/the-web-developer-bootcamp/" target="blank">web developer bootcamp</a> &  <a href="https://www.udemy.com/course/javascript-web-projects-to-build-your-portfolio-resume/" target="blank">Mini JavaScript projects</a> (current online courses)
+- 🌱 I’m currently learning HTML/CSS/Js <a href="https://www.udemy.com/course/the-web-developer-bootcamp/" target="blank"> Web developer bootcamp</a> &  <a href="https://www.udemy.com/course/javascript-web-projects-to-build-your-portfolio-resume/" target="blank">Mini JavaScript projects</a> (current online courses)
 
 - 📫 How to reach me **way02rams@gmail.com**
 
